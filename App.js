@@ -1,0 +1,1 @@
+// App.js placeholder. Insira seu código React Native completo aqui.
